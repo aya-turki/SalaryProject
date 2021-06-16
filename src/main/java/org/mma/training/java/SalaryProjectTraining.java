@@ -13,7 +13,8 @@ public class SalaryProjectTraining {
 		System.out.println("Enter the hourly rate.");
 		scanner.nextDouble();
 	//3. Multiply hours and pay rate:
-		
+		int hours = 40;
+				
 		
 		//4. Display result:
 		
